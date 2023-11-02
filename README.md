@@ -21,3 +21,5 @@ Sort Module:
 The sort module allows authorized users to sort the courier data based on specific criteria. The user can sort the data based on courier name, delivery date, or courier type. The sort module uses various sorting algorithms to sort the data efficiently.
 
 In conclusion, the Courier management system provides a comprehensive solution for managing courier data for any courier company. The system's various modules help the management streamline their courier operations, making them more efficient and profitable.
+
+{It also contains DFD to show the procedure of the project(The file is an InDesign document)}
